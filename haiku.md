@@ -1,6 +1,6 @@
-[hogwarts](#hogwarts)  
-[shorter][linked-baby]
-[wip](#wip)
+* [hogwarts](#hogwarts)  
+* [shorter][linked-baby]  
+* [wip](#wip)
 
 ### hogwarts  
 >_twenty-nine blankets_  
