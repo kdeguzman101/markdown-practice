@@ -9,4 +9,4 @@ here is my table
 |what you want | how to do it |
 | ------------------ | --------|
 | italic | \_word\_ |
-| bold | \**word\** |
+| bold | \*\*word\*\* |
