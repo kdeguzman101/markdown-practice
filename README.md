@@ -11,3 +11,4 @@ here is my table
 | italic | \_word\_ |
 | bold | \*\*word\*\* |
 | list | \* First Item<br> \* Second Item |
+| headings | \# First-level<br>\#\# Second-level |
