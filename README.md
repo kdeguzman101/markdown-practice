@@ -10,6 +10,6 @@ here is my table
 | ------------------ | --------| ------------------ |
 | italic | \_word\_ | _this is in italics_ |
 | bold | \*\*word\*\* | **bold, bro** |
-| list | \* First Item<br> \* Second Item | * First Item<br>  * Second Item |
+| list | \* First Item<br> \* Second Item | <ul><li>First Item</li><li>Second Item</li></ul> |
 | headings | \# First-level<br>\#\# Second-level | # Big Heading<br>## Less big heading |
 | monospace | \`word\` | `your code here` |
