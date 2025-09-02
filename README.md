@@ -11,5 +11,5 @@ here is my table
 | italic | \_word\_ | _this is in italics_ |
 | bold | \*\*word\*\* | **bold, bro** |
 | list | \* First Item<br> \* Second Item | <ul><li>First Item</li><li>Second Item</li></ul> |
-| headings | \# First-level<br>\#\# Second-level | <h1>Big Heading</h1><br><h2>Less big heading</h2> |
+| headings | \# First-level<br>\#\# Second-level | <h1>Big Heading</h1><h2>Less big heading</h2> |
 | monospace | \`word\` | `your code here` |
