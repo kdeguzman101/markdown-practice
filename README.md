@@ -6,10 +6,10 @@ I will create markdown files to make sure I'm understanding the **syntax** and _
 ## creating a table
 my _name_ is **kyle**  
 here is my table
-|what you want | how to do it |
-| ------------------ | --------|
-| italic | \_word\_ |
-| bold | \*\*word\*\* |
-| list | \* First Item<br> \* Second Item |
-| headings | \# First-level<br>\#\# Second-level |
-| monospace | \`word\` |
+|what you want | how to do it | example |
+| ------------------ | --------| ------------------ |
+| italic | \_word\_ | _this is in italics_ |
+| bold | \*\*word\*\* | **bold, bro** |
+| list | \* First Item<br> \* Second Item | * First Item<br>  * Second Item |
+| headings | \# First-level<br>\#\# Second-level | # Big Heading<br>## Less big heading |
+| monospace | \`word\` | `your code here` |
