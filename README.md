@@ -12,3 +12,4 @@ here is my table
 | bold | \*\*word\*\* |
 | list | \* First Item<br> \* Second Item |
 | headings | \# First-level<br>\#\# Second-level |
+| monospace | \`word\` |
